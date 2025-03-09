@@ -54,7 +54,6 @@ Inherits from `PyQt6.QtWidgets.QMainWindow`, and represents the main window of t
 - 'Clear': which empties weight and height input fields and remove blur effects from result labels.
 - 1) **'Exit': which simply stops the program.**
 - 2) **'Clear': which empties weight and height input fields and remove blur effects from result labels.**
-  3) 
-:::warning
-Please use only 'Clear' button at the top left corner to clear input fields.
-:::
+
+> [!WARNING]
+> Please use only 'Clear' button at the top left corner to clear input fields.
