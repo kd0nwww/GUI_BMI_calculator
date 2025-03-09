@@ -22,7 +22,7 @@ Simple BMI calculator with graphical user interface built on Python, using Pyqt6
 ![screenshot](screenshots/instructions.png)
 
 ### **Result:**
-![screenshot](screenshots/result.png)
+![screenshot](screenshots/result.PNG)
 
 ### **Additional functionality:**
 ![screenshot](screenshots/filemenu.png)
