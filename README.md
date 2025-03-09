@@ -19,13 +19,13 @@ Simple BMI calculator with graphical user interface built on Python, using Pyqt6
 ## Usage
 
 ### **Instructions:**
-![screenshot](instructions.png)
+![screenshot](screenshots/instructions.png)
 
 ### **Result:**
-![screenshot](result.png)
+![screenshot](screenshots/result.png)
 
 ### **Additional functionality:**
-![screenshot](filemenu.png)
+![screenshot](screenshots/filemenu.png)
 ### **This menu at the top left corner gives you 2 options:**
 - 1) **'Exit': which simply stops the program.**
 - 2) **'Clear': which empties weight and height input fields and remove blur effects from result labels.**
